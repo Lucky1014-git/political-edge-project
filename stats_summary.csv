@@ -1,0 +1,5 @@
+variant,period,trades,total_return,cagr_pct,avg_trade_pct,win_rate_pct,pct_invested,avg_mfe_pct,avg_mae_pct
+signal_only,in_sample,1221,0.04,0.2,3.43,62.9,95.4,10.57,-5.77
+signal_only,holdout,313,-1.33,-9.5,-1.37,43.5,85.1,3.96,-5.93
+tech,in_sample,838,1.71,6.2,0.9,39.1,79.2,6.67,-3.09
+tech,holdout,156,-3.37,-22.6,-0.72,42.3,50.4,2.59,-2.87

@@ -1,0 +1,5 @@
+variant,period,trades,avg_ret_pct,avg_spy_pct,avg_excess_pct,pct_beat_spy
+signal_only,holdout,313,-1.37,0.05,-1.42,50.2
+signal_only,in_sample,1221,3.43,2.22,1.21,52.9
+tech,holdout,156,-0.72,-0.72,0.01,49.4
+tech,in_sample,838,0.9,0.76,0.14,39.1
