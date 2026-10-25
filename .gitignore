@@ -1,0 +1,7 @@
+.DS_Store
+no_price_tickers.txt
+prices.csv
+venv/
+trades_raw.csv
+__pycache__/
+/daily_report_*.csv
