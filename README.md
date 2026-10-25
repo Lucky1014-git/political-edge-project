@@ -55,3 +55,4 @@ To run the report for a past day: `python daily-run.py --date 2026-10-09`. There
 - The Daily Run score is 1 to 3 points for how many politicians bought the stock in the last 30 days, plus 1 if it is above its 20-day average. The backtest found no reliable edge, so the score ranks the day's stocks and is not a buy signal.
 - If a script says `No module named 'yfinance'`, the virtual environment is not active. Run `source venv/bin/activate` and try again.
 - The scripts read a public website. Keep the pauses between requests in place.
+- Report Link: https://docs.google.com/document/d/1EcP3JyPBOhIR4bqRza0_4qel2q3wYbijaKcwOkk4Tyg/edit?usp=sharing
